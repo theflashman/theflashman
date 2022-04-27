@@ -29,19 +29,27 @@
 <br />
 
 <p>&nbsp;
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" title="Do what you like, and do it best!">
 <br />
 
 - 🌱 I’m currently learning **Electron React-Native**
-  
-  <br />
 
 - 📫 How to reach me **flash463611848@163.com**
-  
-   &nbsp;
+<br />
+
+📊 **this week i spent my time on:**
+<!--START_SECTION:waka-->
+
+```text
+TypeScript  14 hrs 27 mins  ██████████████████████░░░   87.53 %
+JavaScript  43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 %
+Other       23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.41 %
+```
+
+<!--END_SECTION:waka-->
+
 </p>
 
-<p>  &nbsp;</p>
 <br />
 
 <p align="center">  
